@@ -21,4 +21,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * Created extension pack.
 
 [Unreleased]: https://github.com/Gydunhn/Ionic-Developers-TE/tree/develop
+[0.0.2]: https://github.com/Gydunhn/Ionic-Developers-TE/releases/tag/0.0.2
 [0.0.1]: https://github.com/Gydunhn/Ionic-Developers-TE/releases/tag/0.0.1
